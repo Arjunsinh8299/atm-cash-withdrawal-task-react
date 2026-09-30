@@ -1,0 +1,38 @@
+body {
+            background-color: #f4f7fb;
+        }
+
+        .atm-container {
+            max-width: 900px;
+            margin: 50px auto;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+        }
+
+        .header {
+            background: #0d6efd;
+            color: white;
+            border-radius: 15px 15px 0 0;
+        }
+
+        .denomination-box {
+            background-color: #fff;
+            border: 1px solid #dee2e6;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .denomination {
+            font-size: 18px;
+            font-weight: 600;
+            color: #0d6efd;
+        }
+
+        .result-section {
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+        }
